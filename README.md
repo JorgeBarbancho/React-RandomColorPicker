@@ -1,2 +1,2 @@
 # React-RandomColorPicker
-A random color picker app buil in React
+A random color picker app built in React
